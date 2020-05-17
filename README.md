@@ -1,6 +1,6 @@
 # [Django Millenium PRO](https://appseed.us/admin-dashboards/django-dashboard-millenium-pro)
 
-> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple admin dashboards coded in [Django](https://www.djangoproject.com/)
+> Commercial product - Django Dashboard coded on top of Millenium PRO crafted by ThemeKita.
 
 <br />
 
@@ -10,16 +10,14 @@
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
-- Sample UI Kit: **Datta Able Dashboard** (Lite Version) provided by **CodedThemes**
-- **MIT License**
-- Free support via **Github** issues tracker
+- Sample UI Kit: **Millenium PRO** (Lite Version) provided by **ThemeKita**
+- **Commercial License**
 - Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
 - [Django Millenium PRO](https://django-dashboard-millenium-pro.appseed.us/login.html) - LIVE Demo 
 - [Boierplate Code Django](https://appseed.us/admin-dashboards/django-dashboard-millenium-pro) - Official product page
-- [Boierplate Code Django](https://docs.appseed.us/admin-dashboards/django-dashboard-millenium-pro) - Starter docs
 
 <br />
 
