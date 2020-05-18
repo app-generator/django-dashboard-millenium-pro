@@ -10,7 +10,7 @@
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
-- Sample UI Kit: **Millenium PRO** (Lite Version) provided by **ThemeKita**
+- Sample UI Kit: **Millenium PRO** provided by **ThemeKita**
 - **Commercial License**
 - **24/7 Live Support** via [Discord](https://discord.gg/fZC6hup) and eMail < *support@appseed.us* >
 
