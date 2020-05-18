@@ -12,7 +12,7 @@
 - Deployment scripts: Docker, Gunicorn / Nginx
 - Sample UI Kit: **Millenium PRO** (Lite Version) provided by **ThemeKita**
 - **Commercial License**
-- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+- **24/7 Live Support** via [Discord](https://discord.gg/fZC6hup) and eMail < *support@appseed.us* >
 
 > Links
 
