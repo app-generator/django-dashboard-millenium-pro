@@ -12,12 +12,12 @@
 - Deployment scripts: Docker, Gunicorn / Nginx
 - Sample UI Kit: **Millenium PRO** (Lite Version) provided by **ThemeKita**
 - **Commercial License**
-- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
 - [Django Millenium PRO](https://django-dashboard-millenium-pro.appseed.us/login.html) - LIVE Demo 
-- [Boierplate Code Django](https://appseed.us/admin-dashboards/django-dashboard-millenium-pro) - Official product page
+- [Django Millenium PRO](https://appseed.us/admin-dashboards/django-dashboard-millenium-pro) - Official product page
 
 <br />
 
