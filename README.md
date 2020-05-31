@@ -1,27 +1,25 @@
 # [Django Millenium PRO](https://appseed.us/admin-dashboards/django-dashboard-millenium-pro)
 
-> Commercial product - Django Dashboard coded on top of Millenium PRO crafted by ThemeKita.
+> Commercial product - **Django Dashboard** coded on top of **Millenium Dark PRO** crafted by **ThemeKita** - Features:
 
-<br />
-
-## Dashboard Features
-
+- Sample UI Kit: **Millenium Dark PRO** provided by **ThemeKita**
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
-- Sample UI Kit: **Millenium PRO** provided by **ThemeKita**
-- **Commercial License**
-- **24/7 Live Support** via [Discord](https://discord.gg/fZC6hup) and eMail < *support@appseed.us* >
+- **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
+- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
-- [Django Millenium PRO](https://django-dashboard-millenium-pro.appseed.us/login.html) - LIVE Demo 
+- [Django Millenium PRO](https://django-dashboard-millenium-pro.appseed.us/) - LIVE Demo
 - [Django Millenium PRO](https://appseed.us/admin-dashboards/django-dashboard-millenium-pro) - Official product page
+- More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **[AppSeed](https://appseed.us)**
+- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
 
 <br />
 
-![Django Millenium PRO - Open-Source template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-millenium-pro/master/media/django-dashboard-millenium-pro-screen.png)
+![Django Millenium PRO - Admin Dashboard coded in Django.](https://raw.githubusercontent.com/app-generator/django-dashboard-millenium-pro/master/media/django-dashboard-millenium-pro-screen.png)
 
 <br />
 
@@ -198,8 +196,8 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 ## Credits & Links
 
 - [Django](https://www.djangoproject.com/) - The offcial website
-- [Boilerplate Code](https://appseed.us/boilerplate-code) - Index provided by **AppSeed**
-- [Boilerplate Code](https://github.com/app-generator/boilerplate-code) - Index published on Github
+- [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Index provided by **AppSeed**
+- [Django Admin Dashboards](https://github.com/app-generator/django-admin-dashboards) - Index published on Github
 
 <br />
 
